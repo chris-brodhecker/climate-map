@@ -5,7 +5,7 @@ This is a slapped together PoC / MVP for showing data on a map. It utilizes MapB
 This is front end only there is no database or backend. The data is stored in a JSON file which was generated via script (see scripts folder).
 
 ## The Data
-The data which is displayed is stored in data/county-data.js. You can look at a representative sample in data/sample-data.json (there is a known bug where the temperatures are not properly stored from may onward in some cases).
+The data which is displayed is stored in src/data/county-data.js. You can look at a representative sample in src/data/sample-data.json (there is a known bug where the temperatures are not properly stored from may onward in some cases).
 
 The data came from the following sources
 [Income Data From Census](https://data.census.gov/cedsci/table?q=All%20Counties%20within%20United%20States%20and%20Puerto%20Rico&t=Income%20%28Households,%20Families,%20Individuals%29&y=2020&tid=ACSST5Y2020.S1901)

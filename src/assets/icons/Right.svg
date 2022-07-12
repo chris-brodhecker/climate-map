@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>_Guidelines/Iconography/Primary/Carrot/Right</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M14.1943104,12.0004416 C14.1943104,12.3961152 14.0441664,12.7917888 13.7438784,13.0920768 L10.7427648,16.0931904 L9.8056896,15.1561152 L12.8068032,12.156768 C12.8924736,12.0702144 12.8915904,11.9306688 12.80592,11.8423488 L9.8056896,8.8438848 L10.7427648,7.9068096 L13.7429952,10.90704 C14.0441664,11.2090944 14.1943104,11.604768 14.1943104,12.0004416" id="path-1"></path>
+    </defs>
+    <g id="_Guidelines/Iconography/Primary/Carrot/Right" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Color" fill="#051C2C" xlink:href="#path-1"></use>
+    </g>
+</svg>

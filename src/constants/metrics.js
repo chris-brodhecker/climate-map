@@ -1,7 +1,4 @@
-const tempChangeFunction = (temp, change=1) => {
-    console.log(temp, change)
-    return temp * change
-}
+
 
 export const Months = {
     january: { name: 'January', display: 'January' },
@@ -16,6 +13,14 @@ export const Months = {
     october: { name: 'October', display: 'October' },
     november: { name: 'November', display: 'November' },
     december: { name: 'December', display: 'December' },
+}
+
+
+// How the temperatures change based on climate scenarios.
+// This could be a much more complex function if needed.
+const tempChangeFunction = (temp, change=1) => {
+    console.log(temp, change)
+    return temp * change
 }
 
 export const ClimateScenarios = {

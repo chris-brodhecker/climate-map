@@ -1,3 +1,6 @@
+  // This is a useful reference:
+  // http://web-tech.ga-usa.com/2012/05/creating-a-custom-hot-to-cold-temperature-color-gradient-for-use-with-rrdtool/index.html
+ 
   export const TemperatureBucketRanges = [
     {
       Name: 'range1',

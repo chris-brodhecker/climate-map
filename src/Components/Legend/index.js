@@ -2,7 +2,6 @@
 import React from 'react';
 import {LegendContainer, Title, ColorBox, ColorContainer,Labels,ColorLabel} from './styles'
 
-import {BlueTheme} from "../../constants/colors"
 import { TemperatureBucketRanges } from '../../constants/temperatureRanges';
 
 class Legend extends React.Component{
@@ -40,7 +39,6 @@ class Legend extends React.Component{
 }
 
 Legend.defaultProps = {
-    colorTheme: BlueTheme,
     maxValue: 100,
     realMax: 0
 }

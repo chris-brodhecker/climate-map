@@ -1,0 +1,374 @@
+{
+	"10001": {
+		"GEOID": "0500000US10001",
+		"KEY": "10001",
+		"NAME": "Kent County, Delaware",
+		"TotalHouseholdIncome": "67299",
+		"Temperature": "117",
+		"climateData": {
+			"2021": {
+				"January": {
+					"AvgTemp": "35.90"
+				},
+				"February": {
+					"AvgTemp": "35.20"
+				},
+				"March": {
+					"AvgTemp": "47.50"
+				},
+				"April": {
+					"AvgTemp": "55.20"
+				},
+				"May": {
+					"AvgTemp": "63.40"
+				},
+				"June": {
+					"AvgTemp": "73.80"
+				},
+				"July": {
+					"AvgTemp": "77.50"
+				},
+				"August": {
+					"AvgTemp": "76.60"
+				},
+				"September": {
+					"AvgTemp": "69.80"
+				},
+				"November": {
+					"AvgTemp": "62.60"
+				},
+				"October": {
+					"AvgTemp": "44.80"
+				},
+				"December": {
+					"AvgTemp": "43.30"
+				}
+			},
+			"2022": {
+				"January": {
+					"AvgTemp": "31.00"
+				},
+				"February": {
+					"AvgTemp": "38.40"
+				},
+				"March": {
+					"AvgTemp": "46.70"
+				},
+				"April": {
+					"AvgTemp": "53.00"
+				},
+				"May": {
+					"AvgTemp": "65.20 -99.90 -99.90 -99.90 -99.90 -99.90 -99.90 -99.90"
+				},
+				"June": {
+					"AvgTemp": " "
+				},
+				"July": {},
+				"August": {},
+				"September": {},
+				"November": {},
+				"October": {},
+				"December": {}
+			}
+		}
+	},
+	"10003": {
+		"GEOID": "0500000US10003",
+		"KEY": "10003",
+		"NAME": "New Castle County, Delaware",
+		"TotalHouseholdIncome": "209431",
+		"Temperature": "12",
+		"climateData": {
+			"2021": {
+				"January": {
+					"AvgTemp": "34.80"
+				},
+				"February": {
+					"AvgTemp": "33.20"
+				},
+				"March": {
+					"AvgTemp": "46.50"
+				},
+				"April": {
+					"AvgTemp": "54.30"
+				},
+				"May": {
+					"AvgTemp": "61.70"
+				},
+				"June": {
+					"AvgTemp": "72.80"
+				},
+				"July": {
+					"AvgTemp": "76.80"
+				},
+				"August": {
+					"AvgTemp": "76.90"
+				},
+				"September": {
+					"AvgTemp": "69.50"
+				},
+				"November": {
+					"AvgTemp": "62.30"
+				},
+				"October": {
+					"AvgTemp": "43.80"
+				},
+				"December": {
+					"AvgTemp": "42.40"
+				}
+			},
+			"2022": {
+				"January": {
+					"AvgTemp": "30.10"
+				},
+				"February": {
+					"AvgTemp": "37.50"
+				},
+				"March": {
+					"AvgTemp": "45.20"
+				},
+				"April": {
+					"AvgTemp": "52.30"
+				},
+				"May": {
+					"AvgTemp": "65.40 -99.90 -99.90 -99.90 -99.90 -99.90 -99.90 -99.90"
+				},
+				"June": {
+					"AvgTemp": " "
+				},
+				"July": {},
+				"August": {},
+				"September": {},
+				"November": {},
+				"October": {},
+				"December": {}
+			}
+		}
+	},
+	"10005": {
+		"GEOID": "0500000US10005",
+		"KEY": "10005",
+		"NAME": "Sussex County, Delaware",
+		"TotalHouseholdIncome": "94223",
+		"Temperature": "98",
+		"climateData": {
+			"2021": {
+				"January": {
+					"AvgTemp": "37.00"
+				},
+				"February": {
+					"AvgTemp": "36.80"
+				},
+				"March": {
+					"AvgTemp": "48.30"
+				},
+				"April": {
+					"AvgTemp": "55.80"
+				},
+				"May": {
+					"AvgTemp": "64.10"
+				},
+				"June": {
+					"AvgTemp": "74.20"
+				},
+				"July": {
+					"AvgTemp": "78.20"
+				},
+				"August": {
+					"AvgTemp": "77.30"
+				},
+				"September": {
+					"AvgTemp": "70.30"
+				},
+				"November": {
+					"AvgTemp": "63.70"
+				},
+				"October": {
+					"AvgTemp": "46.10"
+				},
+				"December": {
+					"AvgTemp": "45.20"
+				}
+			},
+			"2022": {
+				"January": {
+					"AvgTemp": "32.50"
+				},
+				"February": {
+					"AvgTemp": "40.00"
+				},
+				"March": {
+					"AvgTemp": "47.90"
+				},
+				"April": {
+					"AvgTemp": "54.50"
+				},
+				"May": {
+					"AvgTemp": "65.20 -99.90 -99.90 -99.90 -99.90 -99.90 -99.90 -99.90"
+				},
+				"June": {
+					"AvgTemp": " "
+				},
+				"July": {},
+				"August": {},
+				"September": {},
+				"November": {},
+				"October": {},
+				"December": {}
+			}
+		}
+	},
+	"11001": {
+		"GEOID": "0500000US11001",
+		"KEY": "11001",
+		"NAME": "District of Columbia, District of Columbia",
+		"TotalHouseholdIncome": "288307",
+		"Temperature": "104"
+	},
+	"12001": {
+		"GEOID": "0500000US12001",
+		"KEY": "12001",
+		"NAME": "Alachua County, Florida",
+		"TotalHouseholdIncome": "101979",
+		"Temperature": "102",
+		"climateData": {
+			"2021": {
+				"January": {
+					"AvgTemp": "55.50"
+				},
+				"February": {
+					"AvgTemp": "60.30"
+				},
+				"March": {
+					"AvgTemp": "64.70"
+				},
+				"April": {
+					"AvgTemp": "66.60"
+				},
+				"May": {
+					"AvgTemp": "73.80"
+				},
+				"June": {
+					"AvgTemp": "79.70"
+				},
+				"July": {
+					"AvgTemp": "80.80"
+				},
+				"August": {
+					"AvgTemp": "81.60"
+				},
+				"September": {
+					"AvgTemp": "78.10"
+				},
+				"November": {
+					"AvgTemp": "72.40"
+				},
+				"October": {
+					"AvgTemp": "59.60"
+				},
+				"December": {
+					"AvgTemp": "64.30"
+				}
+			},
+			"2022": {
+				"January": {
+					"AvgTemp": "53.80"
+				},
+				"February": {
+					"AvgTemp": "59.90"
+				},
+				"March": {
+					"AvgTemp": "65.60"
+				},
+				"April": {
+					"AvgTemp": "69.00"
+				},
+				"May": {
+					"AvgTemp": "76.30 -99.90 -99.90 -99.90 -99.90 -99.90 -99.90 -99.90"
+				},
+				"June": {
+					"AvgTemp": " "
+				},
+				"July": {},
+				"August": {},
+				"September": {},
+				"November": {},
+				"October": {},
+				"December": {}
+			}
+		}
+	},
+	"12003": {
+		"GEOID": "0500000US12003",
+		"KEY": "12003",
+		"NAME": "Baker County, Florida",
+		"TotalHouseholdIncome": "8828",
+		"Temperature": "70",
+		"climateData": {
+			"2021": {
+				"January": {
+					"AvgTemp": "53.70"
+				},
+				"February": {
+					"AvgTemp": "57.60"
+				},
+				"March": {
+					"AvgTemp": "63.40"
+				},
+				"April": {
+					"AvgTemp": "65.60"
+				},
+				"May": {
+					"AvgTemp": "72.50"
+				},
+				"June": {
+					"AvgTemp": "78.70"
+				},
+				"July": {
+					"AvgTemp": "79.90"
+				},
+				"August": {
+					"AvgTemp": "80.80"
+				},
+				"September": {
+					"AvgTemp": "77.00"
+				},
+				"November": {
+					"AvgTemp": "71.30"
+				},
+				"October": {
+					"AvgTemp": "57.50"
+				},
+				"December": {
+					"AvgTemp": "62.00"
+				}
+			},
+			"2022": {
+				"January": {
+					"AvgTemp": "51.70"
+				},
+				"February": {
+					"AvgTemp": "58.20"
+				},
+				"March": {
+					"AvgTemp": "64.20"
+				},
+				"April": {
+					"AvgTemp": "67.90"
+				},
+				"May": {
+					"AvgTemp": "75.70 -99.90 -99.90 -99.90 -99.90 -99.90 -99.90 -99.90"
+				},
+				"June": {
+					"AvgTemp": " "
+				},
+				"July": {},
+				"August": {},
+				"September": {},
+				"November": {},
+				"October": {},
+				"December": {}
+			}
+		}
+	}
+}
